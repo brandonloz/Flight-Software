@@ -12,6 +12,8 @@ class task(Task):
 
     schedule_later = True
 
+    # test comment
+
     async def main_task(self):
         """
         If you've attached a 433MHz antenna,
